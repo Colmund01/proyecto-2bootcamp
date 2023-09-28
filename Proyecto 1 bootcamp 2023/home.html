@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+        #gotoSearch:hover {
+            background-color: red
+        }
+    </style>
+    <style>
+        #gotoFavorites:hover {
+            background-color: red
+        }
+    </style>
+    <style>
+        #goHome:hover {
+            background-color: red
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <img src="https://1000logos.net/wp-content/uploads/2020/09/Game-of-Thrones-logo.png" alt="logo">
+
+    <header>
+        <h5>"Winter is coming"</h5>
+    </header>
+
+    <footer>
+        <h5 id="footText">"Dracarys"</h5>
+    </footer>
+
+    <div id="barraOpciones"></div>
+
+    <h1>HOME</h1>
+
+    <div id="menu">
+
+        <button id="goHome">HOME</button>
+        <script>
+            document.querySelector(`#goHome`)
+                .addEventListener(`click`, () => {
+                    location.href = `home.html`;
+                })
+        </script>
+
+        <button id="gotoFavorites">FAVORITOS</button>
+        <script>
+            document.querySelector(`#gotoFavorites`)
+                .addEventListener(`click`, () => {
+                    location.href = `favorites.html`;
+                })
+        </script>
+
+        <button id="gotoSearch">BUSCAR</button>
+        <script>
+            document.querySelector(`#gotoSearch`)
+                .addEventListener(`click`, () => {
+                    location.href = `search.html`;
+                })
+        </script>
+
+    </div>
+
+    <div id="info">
+
+        <div id="info1">
+            <article class="article1">
+                <p id="uno">Sobre mí</p>
+                <p id="first">
+                    Mi nombre es Rafael y tengo 32 años, nací en Venezuela y hace
+                    7 años estoy viviendo en Gran Canaria. Decidí estudiar
+                    Programación Web ya que me parece una herramienta vital
+                    en el campo laboral y además al programar siento que estoy
+                    resolviendo problemas a la NASA.
+                </p>
+            </article>
+        </div>
+
+        <div id="info2">
+            <article class="article2">
+                <p id="dos">Proyecto</p>
+                <p id="second">
+                    Mi proyecto consiste en un site que permite buscar personajes
+                    de la serie Juego de Tronos, mostrando su nombre completo, el
+                    título o apodo por el cual se les conoce y su imágen correspondiente,
+                    los cuales pueden agregarse a una lista de favoritos si el
+                    usuario lo desea.
+                </p>
+            </article>
+        </div>
+    </div>
+
+    <div id="seasons">
+
+        <div id="t1">
+            <h3 id="temp1">Temporada 1</h3>
+            <p>Estreno 17/04/2011</p>
+            <p>10 Episodios</p>
+        </div>
+
+        <div id="t2">
+            <h3 id="temp2">Temporada 2</h3>
+            <p>Estreno 01/04/2012</p>
+            <p>10 Episodios</p>
+
+        </div>
+
+        <div id="t3">
+            <h3 id="temp3">Temporada 3</h3>
+            <p>Estreno 31/03/2013</p>
+            <p>10 Episodios</p>
+
+        </div>
+
+        <div id="t4">
+            <h3 id="temp4">Temporada 4</h3>
+            <p>Estreno 06/04/2014</p>
+            <p>10 Episodios</p>
+
+        </div>
+ 
+
+        <div id="t5">
+            <h3 id="temp5">Temporada 5</h3>
+            <p>Estreno 12/04/2015</p>
+            <p>10 Episodios</p>
+
+        </div>
+
+        <div id="t6">
+            <h3 id="temp6">Temporada 6</h3>
+            <p>Estreno 24/04/2016</p>
+            <p>10 Episodios</p>
+
+        </div>
+
+        <div id="t7">
+            <h3 id="temp7">Temporada 7</h3>
+            <p>Estreno 16/07/2017</p>
+            <p>7 Episodios</p>
+
+        </div>
+
+        <div id="t8">
+            <h3 id="temp8">Temporada 8</h3>
+            <p>Estreno 14/04/2019</p>
+            <p>6 Episodios</p>
+
+        </div>
+    </div>
+
+    <script src="home.js"></script>
+
+</body>
+
+</html>

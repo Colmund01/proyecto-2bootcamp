@@ -1,0 +1,3748 @@
+body {
+
+    background-image: url("https://wallpaperaccess.com/full/25486.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#logoGot {
+    position: absolute;
+    top: 50px;
+    left: 80px;
+    height: 100px;
+    width: 240px;
+}
+
+header {
+    background-color: rgb(39, 67, 105, 0.8);
+    padding: 12px;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: 0px;
+    width: 100%;
+}
+
+h5 {
+    margin: 0;
+    color: white;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    margin-left: -20px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(255, 237, 176, 0.7);
+    text-align: center;
+    height: 50px;
+    margin-left: -10px;
+
+}
+
+#footText {
+    color: rgb(39, 67, 105);
+    margin-top: 10px;
+}
+
+h6 {
+    color: rgb(39, 67, 105);
+    margin-top: 10px;
+}
+
+#barraOpciones {
+    background-color: rgba(255, 237, 176, 0.7);
+    text-align: center;
+    padding: 50px;
+    width: 97%;
+    margin-left: -10px;
+
+}
+
+#menu {
+    display: flex;
+    justify-content: right;
+    margin-right: 70px;
+    margin-top: -120px;
+    height: 40px;
+    gap: 20px;
+}
+
+#gotoSearch {
+    color: white;
+    background-color: rgb(39, 67, 105);
+    border-radius: 8px;
+}
+
+#gotoFavorites {
+    color: white;
+    background-color: rgb(39, 67, 105);
+    border-radius: 8px;
+}
+
+#goHome {
+    color: white;
+    background-color: rgb(39, 67, 105);
+    border-radius: 8px;
+}
+
+h1 {
+    color: rgb(39, 67, 105);
+    font-size: 80px;
+    margin-top: -95px;
+    display: flex;
+    justify-content: center;
+}
+
+#info {
+
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+    padding: 8%;
+    font-size: 2vh;
+    text-align: justify;
+}
+
+#info1 {
+    background-color: rgba(20, 20, 20, 0.8);
+    max-width: 40%;
+    border-radius: 15px;
+    padding: 0px 25px;
+}
+
+#uno {
+    text-align: center;
+    text-emphasis-color: initial;
+}
+
+#info2 {
+    background-color: rgba(20, 20, 20, 0.8);
+    max-width: 40%;
+    border-radius: 15px;
+    padding: 0px 25px;
+}
+
+#dos {
+    text-align: center;
+}
+
+#seasons {
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 4%;
+    font-size: 2vh;
+    margin-top: -90px;
+}
+
+#t1 {
+    background-color: rgb(39, 67, 105, 0.8);
+    max-width: 40%;
+    border-radius: 15px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+#temp1 {
+    display: flex;
+    justify-content: center;
+    margin-left: 6px;
+}
+
+#t2 {
+    background-color: rgb(39, 67, 105, 0.8);
+    max-width: 40%;
+    border-radius: 15px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+#temp2 {
+    display: flex;
+    justify-content: center;
+    margin-left: 6px;
+}
+
+#t3 {
+    background-color: rgb(39, 67, 105, 0.8);
+    max-width: 40%;
+    border-radius: 15px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+#temp3 {
+    display: flex;
+    justify-content: center;
+    margin-left: 6px;
+}
+
+#t4 {
+    background-color: rgb(39, 67, 105, 0.8);
+    max-width: 40%;
+    border-radius: 15px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+#temp4 {
+    display: flex;
+    justify-content: center;
+    margin-left: 6px;
+}
+
+#t5 {
+    background-color: rgb(39, 67, 105, 0.8);
+    max-width: 40%;
+    border-radius: 15px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+#temp5 {
+    display: flex;
+    justify-content: center;
+    margin-left: 6px;
+}
+
+#t6 {
+    background-color: rgb(39, 67, 105, 0.8);
+    max-width: 40%;
+    border-radius: 15px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+#temp6 {
+    display: flex;
+    justify-content: center;
+    margin-left: 6px;
+}
+
+#t7 {
+    background-color: rgb(39, 67, 105, 0.8);
+    max-width: 40%;
+    border-radius: 15px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+#temp7 {
+    display: flex;
+    justify-content: center;
+    margin-left: 6px;
+}
+
+#t8 {
+    background-color: rgb(39, 67, 105, 0.8);
+    max-width: 40%;
+    border-radius: 15px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+#temp8 {
+    display: flex;
+    justify-content: center;
+    margin-left: 6px;
+}
+
+
+
+#information {
+    display: inline-block;
+    width: 15%;
+    margin: 1%;
+    text-align: center;
+    color: white;
+    background-color: rgb(39, 67, 105, 0.8);
+    border-radius: 20px;
+    padding: 10px;
+    margin-left: 70px;
+    margin-top: 70px;
+    margin-bottom: 90px;
+}
+
+h2,
+h3 {
+    margin-top: 0;
+}
+
+#pictures {
+    width: 100%;
+    border-radius: 10px;
+}
+
+#addandremove {
+    margin: 10px;
+    width: 80px;
+    padding: 3px;
+    color: rgb(39, 67, 105);
+    background-color: white;
+    border-radius: 8px;
+}
+
+/* --------------------------------------------------------------------------------------------------- */
+
+@media (min-width: 600px) and (max-width: 650px) {
+
+    #logoGot {
+        position: absolute;
+        top: 40px;
+        left: 80px;
+        height: 60px;
+        width: 140px;
+        margin-left: -70px;
+    }
+
+    header {
+        background-color: rgb(39, 67, 105, 0.8);
+        padding: 8px;
+        margin-top: -10px;
+        margin-left: -10px;
+        margin-right: 0px;
+        width: 102%;
+    }
+
+    h5 {
+        margin: 0;
+        color: white;
+        font-size: 20px;
+        display: flex;
+        justify-content: center;
+        margin-left: -15px;
+    }
+
+    footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        background-color: rgba(255, 237, 176, 0.7);
+        text-align: center;
+        height: 35px;
+        margin-left: -10px;
+    
+    }
+    
+    #footText {
+        color: rgb(39, 67, 105);
+        margin-top: 5px;
+    }
+    
+    #barraOpciones {
+        background-color: rgba(255, 237, 176, 0.7);
+        text-align: center;
+        padding: 35px;
+        width: 93%;
+        margin-left: -10px;
+    
+    }
+    
+    #menu {
+        display: flex;
+        justify-content: right;
+        margin-right: 10px;
+        margin-top: -75px;
+        height:25px;
+        gap: 10px;
+    }
+    
+    #gotoSearch {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    #gotoFavorites {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    #goHome {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+        display: none;
+    }
+    
+    h1 {
+        color: rgb(39, 67, 105);
+        font-size: 50px;
+        margin-top: -65px;
+        display: flex;
+        justify-content: center;
+        margin-left: -50px;
+    }
+    
+    #info {
+    
+        color: white;
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+        padding: 8%;
+        font-size: 1.5vh;
+        text-align: justify;
+        margin-left: -5px;
+    }
+    
+    #info1 {
+        background-color: rgba(20, 20, 20, 0.8);
+        max-width: 100%;
+        border-radius: 15px;
+        padding: 0px 25px;
+        margin-bottom: 12px;
+    }
+    
+    #uno {
+        text-align: center;
+        text-emphasis-color: initial;
+    }
+    
+    #info2 {
+        background-color: rgba(20, 20, 20, 0.8);
+        max-width: 100%;
+        border-radius: 15px;
+        padding: 0px 25px;
+    }
+    
+    #dos {
+        text-align: center;
+    }
+    
+    #seasons {
+        color: white;
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+        padding: 4%;
+        font-size: 1.5vh;
+        margin-top: -35px;
+        margin-left: 18px;
+    }
+    
+    #t1 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+    }
+    
+    #temp1 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t2 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-left: 268px;
+        margin-top: -156px;
+    }
+    
+    #temp2 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t3 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    #temp3 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t4 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-left: 268px;
+        margin-top: -156px;
+    }
+    
+    #temp4 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t5 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    #temp5 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t6 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-left: 268px;
+        margin-top: -156px;
+    }
+    
+    #temp6 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t7 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    #temp7 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t8 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-left: 268px;
+        margin-top: -156px;
+    }
+    
+    #temp8 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+}
+
+/* --------------------------------------------------------------------------------------------------- */
+
+@media (min-width: 650px) and (max-width: 700px) {
+
+    #logoGot {
+        position: absolute;
+        top: 40px;
+        left: 80px;
+        height: 60px;
+        width: 140px;
+        margin-left: -70px;
+    }
+
+    header {
+        background-color: rgb(39, 67, 105, 0.8);
+        padding: 8px;
+        margin-top: -10px;
+        margin-left: -10px;
+        margin-right: 0px;
+        width: 102%;
+    }
+
+    h5 {
+        margin: 0;
+        color: white;
+        font-size: 20px;
+        display: flex;
+        justify-content: center;
+        margin-left: -15px;
+    }
+
+    footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        background-color: rgba(255, 237, 176, 0.7);
+        text-align: center;
+        height: 35px;
+        margin-left: -10px;
+    
+    }
+    
+    #footText {
+        color: rgb(39, 67, 105);
+        margin-top: 5px;
+    }
+    
+    #barraOpciones {
+        background-color: rgba(255, 237, 176, 0.7);
+        text-align: center;
+        padding: 35px;
+        width: 93%;
+        margin-left: -10px;
+    
+    }
+    
+    #menu {
+        display: flex;
+        justify-content: right;
+        margin-right: 10px;
+        margin-top: -75px;
+        height:25px;
+        gap: 10px;
+    }
+    
+    #gotoSearch {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    #gotoFavorites {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    #goHome {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+        display: none;
+    }
+    
+    h1 {
+        color: rgb(39, 67, 105);
+        font-size: 50px;
+        margin-top: -65px;
+        display: flex;
+        justify-content: center;
+        margin-left: -50px;
+    }
+    
+    #info {
+    
+        color: white;
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+        padding: 8%;
+        font-size: 1.5vh;
+        text-align: justify;
+        margin-left: -5px;
+    }
+    
+    #info1 {
+        background-color: rgba(20, 20, 20, 0.8);
+        max-width: 100%;
+        border-radius: 15px;
+        padding: 0px 25px;
+        margin-bottom: 12px;
+    }
+    
+    #uno {
+        text-align: center;
+        text-emphasis-color: initial;
+    }
+    
+    #info2 {
+        background-color: rgba(20, 20, 20, 0.8);
+        max-width: 100%;
+        border-radius: 15px;
+        padding: 0px 25px;
+    }
+    
+    #dos {
+        text-align: center;
+    }
+    
+    #seasons {
+        color: white;
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+        padding: 4%;
+        font-size: 1.5vh;
+        margin-top: -35px;
+        margin-left: 18px;
+    }
+    
+    #t1 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+    }
+    
+    #temp1 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t2 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-left: 293px;
+        margin-top: -156px;
+    }
+    
+    #temp2 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t3 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    #temp3 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t4 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-left: 293px;
+        margin-top: -156px;
+    }
+    
+    #temp4 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t5 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    #temp5 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t6 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-left: 293px;
+        margin-top: -156px;
+    }
+    
+    #temp6 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t7 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    #temp7 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t8 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-left: 293px;
+        margin-top: -156px;
+    }
+    
+    #temp8 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+}
+
+/* --------------------------------------------------------------------------------------------------- */
+
+@media (min-width: 600px) and (max-width: 650px) {
+
+    #logoGot {
+        position: absolute;
+        top: 40px;
+        left: 80px;
+        height: 60px;
+        width: 140px;
+        margin-left: -70px;
+    }
+
+    header {
+        background-color: rgb(39, 67, 105, 0.8);
+        padding: 8px;
+        margin-top: -10px;
+        margin-left: -10px;
+        margin-right: 0px;
+        width: 102%;
+    }
+
+    h5 {
+        margin: 0;
+        color: white;
+        font-size: 20px;
+        display: flex;
+        justify-content: center;
+        margin-left: -15px;
+    }
+
+    footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        background-color: rgba(255, 237, 176, 0.7);
+        text-align: center;
+        height: 35px;
+        margin-left: -10px;
+    
+    }
+    
+    #footText {
+        color: rgb(39, 67, 105);
+        margin-top: 5px;
+    }
+    
+    #barraOpciones {
+        background-color: rgba(255, 237, 176, 0.7);
+        text-align: center;
+        padding: 35px;
+        width: 93%;
+        margin-left: -10px;
+    
+    }
+    
+    #menu {
+        display: flex;
+        justify-content: right;
+        margin-right: 10px;
+        margin-top: -75px;
+        height:25px;
+        gap: 10px;
+    }
+    
+    #gotoSearch {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    #gotoFavorites {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    #goHome {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+        display: none;
+    }
+    
+    h1 {
+        color: rgb(39, 67, 105);
+        font-size: 50px;
+        margin-top: -65px;
+        display: flex;
+        justify-content: center;
+        margin-left: -50px;
+    }
+    
+    #info {
+    
+        color: white;
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+        padding: 8%;
+        font-size: 1.5vh;
+        text-align: justify;
+        margin-left: -5px;
+    }
+    
+    #info1 {
+        background-color: rgba(20, 20, 20, 0.8);
+        max-width: 100%;
+        border-radius: 15px;
+        padding: 0px 25px;
+        margin-bottom: 12px;
+    }
+    
+    #uno {
+        text-align: center;
+        text-emphasis-color: initial;
+    }
+    
+    #info2 {
+        background-color: rgba(20, 20, 20, 0.8);
+        max-width: 100%;
+        border-radius: 15px;
+        padding: 0px 25px;
+    }
+    
+    #dos {
+        text-align: center;
+    }
+    
+    #seasons {
+        color: white;
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+        padding: 4%;
+        font-size: 1.5vh;
+        margin-top: -35px;
+        margin-left: 18px;
+    }
+    
+    #t1 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+    }
+    
+    #temp1 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t2 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-left: 268px;
+        margin-top: -156px;
+    }
+    
+    #temp2 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t3 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    #temp3 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t4 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-left: 268px;
+        margin-top: -156px;
+    }
+    
+    #temp4 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t5 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    #temp5 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t6 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-left: 268px;
+        margin-top: -156px;
+    }
+    
+    #temp6 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t7 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    #temp7 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t8 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-left: 268px;
+        margin-top: -156px;
+    }
+    
+    #temp8 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+}
+
+/* --------------------------------------------------------------------------------------------------- */
+
+@media (min-width: 700px) and (max-width: 750px) {
+
+    #logoGot {
+        position: absolute;
+        top: 40px;
+        left: 80px;
+        height: 60px;
+        width: 140px;
+        margin-left: -70px;
+    }
+
+    header {
+        background-color: rgb(39, 67, 105, 0.8);
+        padding: 8px;
+        margin-top: -10px;
+        margin-left: -10px;
+        margin-right: 0px;
+        width: 102%;
+    }
+
+    h5 {
+        margin: 0;
+        color: white;
+        font-size: 20px;
+        display: flex;
+        justify-content: center;
+        margin-left: -15px;
+    }
+
+    footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        background-color: rgba(255, 237, 176, 0.7);
+        text-align: center;
+        height: 35px;
+        margin-left: -10px;
+    
+    }
+    
+    #footText {
+        color: rgb(39, 67, 105);
+        margin-top: 5px;
+    }
+    
+    #barraOpciones {
+        background-color: rgba(255, 237, 176, 0.7);
+        text-align: center;
+        padding: 35px;
+        width: 93%;
+        margin-left: -10px;
+    
+    }
+    
+    #menu {
+        display: flex;
+        justify-content: right;
+        margin-right: 10px;
+        margin-top: -75px;
+        height:25px;
+        gap: 10px;
+    }
+    
+    #gotoSearch {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    #gotoFavorites {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    #goHome {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    h1 {
+        color: rgb(39, 67, 105);
+        font-size: 50px;
+        margin-top: -65px;
+        display: flex;
+        justify-content: center;
+        margin-left: -110px;
+    }
+    
+    #info {
+    
+        color: white;
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+        padding: 8%;
+        font-size: 1.5vh;
+        text-align: justify;
+        margin-left: -5px;
+    }
+    
+    #info1 {
+        background-color: rgba(20, 20, 20, 0.8);
+        max-width: 100%;
+        border-radius: 15px;
+        padding: 0px 25px;
+        margin-bottom: 12px;
+    }
+    
+    #uno {
+        text-align: center;
+        text-emphasis-color: initial;
+    }
+    
+    #info2 {
+        background-color: rgba(20, 20, 20, 0.8);
+        max-width: 100%;
+        border-radius: 15px;
+        padding: 0px 25px;
+    }
+    
+    #dos {
+        text-align: center;
+    }
+    
+    #seasons {
+        color: white;
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+        padding: 4%;
+        font-size: 1.5vh;
+        margin-top: -35px;
+        margin-left: 18px;
+    }
+    
+    #t1 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+    }
+    
+    #temp1 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t2 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-left: 320px;
+        margin-top: -156px;
+    }
+    
+    #temp2 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t3 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    #temp3 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t4 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-left: 320px;
+        margin-top: -156px;
+    }
+    
+    #temp4 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t5 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    #temp5 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t6 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-left: 320px;
+        margin-top: -156px;
+    }
+    
+    #temp6 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t7 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    #temp7 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t8 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-left: 320px;
+        margin-top: -156px;
+    }
+    
+    #temp8 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+}
+
+/* ------------------------------------------------------------------------------------------- */
+
+@media (min-width: 750px) and (max-width: 850px) {
+
+    #logoGot {
+        position: absolute;
+        top: 40px;
+        left: 80px;
+        height: 60px;
+        width: 140px;
+        margin-left: -70px;
+    }
+
+    header {
+        background-color: rgb(39, 67, 105, 0.8);
+        padding: 8px;
+        margin-top: -10px;
+        margin-left: -10px;
+        margin-right: 0px;
+        width: 102%;
+    }
+
+    h5 {
+        margin: 0;
+        color: white;
+        font-size: 20px;
+        display: flex;
+        justify-content: center;
+        margin-left: -15px;
+    }
+
+    footer {
+        position: fixed;
+        bottom: 0;
+        width: 110%;
+        background-color: rgba(255, 237, 176, 0.7);
+        text-align: center;
+        height: 35px;
+        margin-left: -10px;
+    
+    }
+    
+    #footText {
+        color: rgb(39, 67, 105);
+        margin-top: 5px;
+    }
+    
+    #barraOpciones {
+        background-color: rgba(255, 237, 176, 0.7);
+        text-align: center;
+        padding: 35px;
+        width: 100%;
+        margin-left: -10px;
+    
+    }
+    
+    #menu {
+        display: flex;
+        justify-content: right;
+        margin-right: 10px;
+        margin-top: -75px;
+        height:25px;
+        gap: 10px;
+    }
+    
+    #gotoSearch {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    #gotoFavorites {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    #goHome {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    h1 {
+        color: rgb(39, 67, 105);
+        font-size: 50px;
+        margin-top: -65px;
+        display: flex;
+        justify-content: center;
+        margin-left: -110px;
+    }
+    
+    #info {
+    
+        color: white;
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+        padding: 8%;
+        font-size: 1.5vh;
+        text-align: justify;
+        margin-left: -5px;
+    }
+    
+    #info1 {
+        background-color: rgba(20, 20, 20, 0.8);
+        max-width: 100%;
+        border-radius: 15px;
+        padding: 0px 25px;
+        margin-bottom: 12px;
+    }
+    
+    #uno {
+        text-align: center;
+        text-emphasis-color: initial;
+    }
+    
+    #info2 {
+        background-color: rgba(20, 20, 20, 0.8);
+        max-width: 100%;
+        border-radius: 15px;
+        padding: 0px 25px;
+    }
+    
+    #dos {
+        text-align: center;
+    }
+    
+    #seasons {
+        color: white;
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+        padding: 4%;
+        font-size: 1.5vh;
+        margin-top: -35px;
+        margin-left: 18px;
+    }
+    
+    #t1 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+    }
+    
+    #temp1 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t2 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-left: 345px;
+        margin-top: -156px;
+    }
+    
+    #temp2 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t3 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    #temp3 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t4 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-left: 345px;
+        margin-top: -156px;
+    }
+    
+    #temp4 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t5 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    #temp5 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t6 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-left: 345px;
+        margin-top: -156px;
+    }
+    
+    #temp6 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t7 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    #temp7 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t8 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-left: 345px;
+        margin-top: -156px;
+    }
+    
+    #temp8 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+}
+
+/* ------------------------------------------------------------------------------------------- */
+
+@media (min-width: 850px) and (max-width: 950px) {
+
+    #logoGot {
+        position: absolute;
+        top: 40px;
+        left: 80px;
+        height: 60px;
+        width: 140px;
+        margin-left: -70px;
+    }
+
+    header {
+        background-color: rgb(39, 67, 105, 0.8);
+        padding: 8px;
+        margin-top: -10px;
+        margin-left: -10px;
+        margin-right: 0px;
+        width: 102%;
+    }
+
+    h5 {
+        margin: 0;
+        color: white;
+        font-size: 20px;
+        display: flex;
+        justify-content: center;
+        margin-left: -15px;
+    }
+
+    footer {
+        position: fixed;
+        bottom: 0;
+        width: 110%;
+        background-color: rgba(255, 237, 176, 0.7);
+        text-align: center;
+        height: 35px;
+        margin-left: -10px;
+    
+    }
+    
+    #footText {
+        color: rgb(39, 67, 105);
+        margin-top: 5px;
+    }
+    
+    #barraOpciones {
+        background-color: rgba(255, 237, 176, 0.7);
+        text-align: center;
+        padding: 35px;
+        width: 100%;
+        margin-left: -10px;
+    
+    }
+    
+    #menu {
+        display: flex;
+        justify-content: right;
+        margin-right: 10px;
+        margin-top: -75px;
+        height:25px;
+        gap: 10px;
+    }
+    
+    #gotoSearch {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    #gotoFavorites {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    #goHome {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    h1 {
+        color: rgb(39, 67, 105);
+        font-size: 50px;
+        margin-top: -65px;
+        display: flex;
+        justify-content: center;
+        margin-left: -110px;
+    }
+    
+    #info {
+    
+        color: white;
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+        padding: 8%;
+        font-size: 1.5vh;
+        text-align: justify;
+        margin-left: -5px;
+    }
+    
+    #info1 {
+        background-color: rgba(20, 20, 20, 0.8);
+        max-width: 100%;
+        border-radius: 15px;
+        padding: 0px 25px;
+        margin-bottom: 12px;
+    }
+    
+    #uno {
+        text-align: center;
+        text-emphasis-color: initial;
+    }
+    
+    #info2 {
+        background-color: rgba(20, 20, 20, 0.8);
+        max-width: 100%;
+        border-radius: 15px;
+        padding: 0px 25px;
+    }
+    
+    #dos {
+        text-align: center;
+    }
+    
+    #seasons {
+        color: white;
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+        padding: 4%;
+        font-size: 1.5vh;
+        margin-top: -35px;
+        margin-left: 18px;
+    }
+    
+    #t1 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+    }
+    
+    #temp1 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t2 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-left: 395px;
+        margin-top: -156px;
+    }
+    
+    #temp2 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t3 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    #temp3 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t4 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-left: 395px;
+        margin-top: -156px;
+    }
+    
+    #temp4 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t5 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    #temp5 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t6 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-left: 395px;
+        margin-top: -156px;
+    }
+    
+    #temp6 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t7 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    #temp7 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t8 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 40%;
+        border-radius: 15px;
+        padding: 10px 10px;
+        text-align: center;
+        margin-left: 395px;
+        margin-top: -156px;
+    }
+    
+    #temp8 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+}
+
+/* ------------------------------------------------------------------------------------------- */
+
+@media (min-width: 951px) and (max-width: 1050px) {
+
+    #logoGot {
+        position: absolute;
+        top: 50px;
+        left: 80px;
+        height: 100px;
+        width: 240px;
+        margin-left: -80px;
+    }
+    
+    header {
+        background-color: rgb(39, 67, 105, 0.8);
+        padding: 12px;
+        margin-top: -10px;
+        margin-left: -10px;
+        margin-right: 0px;
+        width: 100%;
+    }
+    
+    h5 {
+        margin: 0;
+        color: white;
+        font-size: 25px;
+        display: flex;
+        justify-content: center;
+        margin-left: -20px;
+    }
+    
+    footer {
+        position: fixed;
+        bottom: 0;
+        width: 105%;
+        background-color: rgba(255, 237, 176, 0.7);
+        text-align: center;
+        height: 50px;
+        margin-left: -10px;
+    
+    }
+    
+    #footText {
+        color: rgb(39, 67, 105);
+        margin-top: 10px;
+    }
+    
+    h6 {
+        color: rgb(39, 67, 105);
+        margin-top: 10px;
+    }
+    
+    #barraOpciones {
+        background-color: rgba(255, 237, 176, 0.7);
+        text-align: center;
+        padding: 50px;
+        width: 97%;
+        margin-left: -10px;
+    
+    }
+    
+    #menu {
+        display: flex;
+        justify-content: right;
+        margin-right: 10px;
+        margin-top: -120px;
+        height: 40px;
+        gap: 20px;
+    }
+    
+    #gotoSearch {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    #gotoFavorites {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    #goHome {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    h1 {
+        color: rgb(39, 67, 105);
+        font-size: 80px;
+        margin-top: -95px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    #info {
+    
+        color: white;
+        display: flex;
+        justify-content: space-around;
+        text-align: left;
+        padding: 8%;
+        font-size: 2vh;
+        text-align: justify;
+    }
+    
+    #info1 {
+        background-color: rgba(20, 20, 20, 0.8);
+        max-width: 70%;
+        border-radius: 15px;
+        padding: 0px 25px;
+        margin-right: 80px;
+    }
+    
+    #uno {
+        text-align: center;
+        text-emphasis-color: initial;
+    }
+    
+    #info2 {
+        background-color: rgba(20, 20, 20, 0.8);
+        max-width: 70%;
+        border-radius: 15px;
+        padding: 0px 25px;
+    }
+    
+    #dos {
+        text-align: center;
+    }
+    
+    #seasons {
+        color: white;
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+        padding: 3%;
+        font-size: 2vh;
+        margin-top: -50px;
+        margin-bottom: 70px;
+    }
+    
+    #t1 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 30%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+    }
+    
+    #temp1 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t2 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 30%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 300px;
+        margin-top: -204px;
+    }
+    
+    #temp2 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t3 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 30%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 600px;
+        margin-top: -204px;
+    }
+    
+    #temp3 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t4 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 30%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-top: 20px;
+    }
+    
+    #temp4 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t5 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 30%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 300px;
+        margin-top: -204px;
+    }
+    
+    #temp5 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t6 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 30%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 600px;
+        margin-top: -204px;
+    }
+    
+    #temp6 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t7 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 30%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 150px;
+        margin-top: 20px;
+    }
+    
+    #temp7 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t8 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 30%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 450px;
+        margin-top: -204px;
+    }
+    
+    #temp8 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+}
+
+/* ------------------------------------------------------------------------------------------- */
+
+@media (min-width: 1051px) and (max-width: 1200px) {
+
+    #logoGot {
+        position: absolute;
+        top: 50px;
+        left: 80px;
+        height: 100px;
+        width: 240px;
+        margin-left: -80px;
+    }
+    
+    header {
+        background-color: rgb(39, 67, 105, 0.8);
+        padding: 12px;
+        margin-top: -10px;
+        margin-left: -10px;
+        margin-right: 0px;
+        width: 100%;
+    }
+    
+    h5 {
+        margin: 0;
+        color: white;
+        font-size: 25px;
+        display: flex;
+        justify-content: center;
+        margin-left: -20px;
+    }
+    
+    footer {
+        position: fixed;
+        bottom: 0;
+        width: 105%;
+        background-color: rgba(255, 237, 176, 0.7);
+        text-align: center;
+        height: 50px;
+        margin-left: -10px;
+    
+    }
+    
+    #footText {
+        color: rgb(39, 67, 105);
+        margin-top: 10px;
+    }
+    
+    h6 {
+        color: rgb(39, 67, 105);
+        margin-top: 10px;
+    }
+    
+    #barraOpciones {
+        background-color: rgba(255, 237, 176, 0.7);
+        text-align: center;
+        padding: 50px;
+        width: 97%;
+        margin-left: -10px;
+    
+    }
+    
+    #menu {
+        display: flex;
+        justify-content: right;
+        margin-right: 10px;
+        margin-top: -120px;
+        height: 40px;
+        gap: 20px;
+    }
+    
+    #gotoSearch {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    #gotoFavorites {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    #goHome {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    h1 {
+        color: rgb(39, 67, 105);
+        font-size: 80px;
+        margin-top: -95px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    #info {
+    
+        color: white;
+        display: flex;
+        justify-content: space-around;
+        text-align: left;
+        padding: 6%;
+        font-size: 2vh;
+        text-align: justify;
+    }
+    
+    #info1 {
+        background-color: rgba(20, 20, 20, 0.8);
+        max-width: 100%;
+        border-radius: 15px;
+        padding: 0px 15px;
+        margin-right: 80px;
+    }
+    
+    #uno {
+        text-align: center;
+        text-emphasis-color: initial;
+    }
+    
+    #info2 {
+        background-color: rgba(20, 20, 20, 0.8);
+        max-width: 100%;
+        border-radius: 15px;
+        padding: 0px 15px;
+    }
+    
+    #dos {
+        text-align: center;
+    }
+    
+    #seasons {
+        color: white;
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+        padding: 3%;
+        font-size: 2vh;
+        margin-top: -50px;
+        margin-bottom: 70px;
+    }
+    
+    #t1 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 30%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+    }
+    
+    #temp1 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t2 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 30%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 350px;
+        margin-top: -204px;
+    }
+    
+    #temp2 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t3 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 30%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 700px;
+        margin-top: -204px;
+    }
+    
+    #temp3 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t4 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 30%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-top: 20px;
+    }
+    
+    #temp4 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t5 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 30%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 350px;
+        margin-top: -204px;
+    }
+    
+    #temp5 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t6 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 30%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 700px;
+        margin-top: -204px;
+    }
+    
+    #temp6 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t7 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 30%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 150px;
+        margin-top: 20px;
+    }
+    
+    #temp7 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t8 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 30%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 540px;
+        margin-top: -204px;
+    }
+    
+    #temp8 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+}
+
+
+/* ------------------------------------------------------------------------------------------- */
+
+@media (min-width: 1201px) and (max-width: 1400px) {
+
+    #logoGot {
+        position: absolute;
+        top: 50px;
+        left: 80px;
+        height: 100px;
+        width: 240px;
+        margin-left: -50px;
+    }
+    
+    header {
+        background-color: rgb(39, 67, 105, 0.8);
+        padding: 12px;
+        margin-top: -10px;
+        margin-left: -10px;
+        margin-right: 0px;
+        width: 100%;
+    }
+    
+    h5 {
+        margin: 0;
+        color: white;
+        font-size: 25px;
+        display: flex;
+        justify-content: center;
+        margin-left: -20px;
+    }
+    
+    footer {
+        position: fixed;
+        bottom: 0;
+        width: 105%;
+        background-color: rgba(255, 237, 176, 0.7);
+        text-align: center;
+        height: 50px;
+        margin-left: -10px;
+    
+    }
+    
+    #footText {
+        color: rgb(39, 67, 105);
+        margin-top: 10px;
+    }
+    
+    h6 {
+        color: rgb(39, 67, 105);
+        margin-top: 10px;
+    }
+    
+    #barraOpciones {
+        background-color: rgba(255, 237, 176, 0.7);
+        text-align: center;
+        padding: 50px;
+        width: 97%;
+        margin-left: -10px;
+    
+    }
+    
+    #menu {
+        display: flex;
+        justify-content: right;
+        margin-right: 30px;
+        margin-top: -120px;
+        height: 40px;
+        gap: 20px;
+    }
+    
+    #gotoSearch {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    #gotoFavorites {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    #goHome {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    h1 {
+        color: rgb(39, 67, 105);
+        font-size: 80px;
+        margin-top: -95px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    #info {
+    
+        color: white;
+        display: flex;
+        justify-content: space-around;
+        text-align: left;
+        padding: 6%;
+        font-size: 2vh;
+        text-align: justify;
+        margin-top: 60px;
+    }
+    
+    #info1 {
+        background-color: rgba(20, 20, 20, 0.8);
+        max-width: 100%;
+        border-radius: 15px;
+        padding: 0px 15px;
+        margin-right: 80px;
+    }
+    
+    #uno {
+        text-align: center;
+        text-emphasis-color: initial;
+    }
+    
+    #info2 {
+        background-color: rgba(20, 20, 20, 0.8);
+        max-width: 100%;
+        border-radius: 15px;
+        padding: 0px 15px;
+    }
+    
+    #dos {
+        text-align: center;
+    }
+    
+    #seasons {
+        color: white;
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+        padding: 2%;
+        font-size: 2vh;
+        margin-top: 30px;
+        margin-bottom: 70px;
+    }
+    
+    #t1 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+    }
+    
+    #temp1 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t2 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 300px;
+        margin-top: -204px;
+    }
+    
+    #temp2 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t3 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 600px;
+        margin-top: -204px;
+    }
+    
+    #temp3 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t4 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 900px;
+        margin-top: -204px;
+    }
+    
+    #temp4 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t5 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-top: 40px;
+    }
+    
+    #temp5 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t6 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 300px;
+        margin-top: -204px;
+        
+    }
+    
+    #temp6 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t7 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 600px;
+        margin-top: -204px;
+        
+    }
+    
+    #temp7 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t8 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 900px;
+        margin-top: -204px;
+        
+    }
+    
+    #temp8 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+}
+
+/* ------------------------------------------------------------------------------------------- */
+
+@media (min-width: 1401px) and (max-width: 1520px) {
+
+    #logoGot {
+        position: absolute;
+        top: 50px;
+        left: 80px;
+        height: 100px;
+        width: 240px;
+        margin-left: -50px;
+    }
+    
+    header {
+        background-color: rgb(39, 67, 105, 0.8);
+        padding: 12px;
+        margin-top: -10px;
+        margin-left: -10px;
+        margin-right: 0px;
+        width: 100%;
+    }
+    
+    h5 {
+        margin: 0;
+        color: white;
+        font-size: 25px;
+        display: flex;
+        justify-content: center;
+        margin-left: -20px;
+    }
+    
+    footer {
+        position: fixed;
+        bottom: 0;
+        width: 105%;
+        background-color: rgba(255, 237, 176, 0.7);
+        text-align: center;
+        height: 50px;
+        margin-left: -10px;
+    
+    }
+    
+    #footText {
+        color: rgb(39, 67, 105);
+        margin-top: 10px;
+    }
+    
+    h6 {
+        color: rgb(39, 67, 105);
+        margin-top: 10px;
+    }
+    
+    #barraOpciones {
+        background-color: rgba(255, 237, 176, 0.7);
+        text-align: center;
+        padding: 50px;
+        width: 97%;
+        margin-left: -10px;
+    
+    }
+    
+    #menu {
+        display: flex;
+        justify-content: right;
+        margin-right: 20px;
+        margin-top: -120px;
+        height: 40px;
+        gap: 20px;
+    }
+    
+    #gotoSearch {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    #gotoFavorites {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    #goHome {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    h1 {
+        color: rgb(39, 67, 105);
+        font-size: 80px;
+        margin-top: -95px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    #info {
+    
+        color: white;
+        display: flex;
+        justify-content: space-around;
+        text-align: left;
+        padding: 6%;
+        font-size: 2vh;
+        text-align: justify;
+        margin-top: 60px;
+    }
+    
+    #info1 {
+        background-color: rgba(20, 20, 20, 0.8);
+        max-width: 100%;
+        border-radius: 15px;
+        padding: 0px 15px;
+        margin-right: 80px;
+    }
+    
+    #uno {
+        text-align: center;
+        text-emphasis-color: initial;
+    }
+    
+    #info2 {
+        background-color: rgba(20, 20, 20, 0.8);
+        max-width: 100%;
+        border-radius: 15px;
+        padding: 0px 15px;
+    }
+    
+    #dos {
+        text-align: center;
+    }
+    
+    #seasons {
+        color: white;
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+        padding: 2%;
+        font-size: 2vh;
+        margin-top: 30px;
+        margin-bottom: 70px;
+    }
+    
+    #t1 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+    }
+    
+    #temp1 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t2 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 350px;
+        margin-top: -204px;
+    }
+    
+    #temp2 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t3 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 700px;
+        margin-top: -204px;
+    }
+    
+    #temp3 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t4 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 1050px;
+        margin-top: -204px;
+    }
+    
+    #temp4 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t5 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-top: 40px;
+    }
+    
+    #temp5 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t6 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 350px;
+        margin-top: -204px;
+        
+    }
+    
+    #temp6 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t7 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 700px;
+        margin-top: -204px;
+        
+    }
+    
+    #temp7 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t8 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 1050px;
+        margin-top: -204px;
+        
+    }
+    
+    #temp8 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+}
+
+/* ------------------------------------------------------------------------------------------- */
+
+@media (min-width: 1521px) and (max-width: 1800px) {
+
+    #logoGot {
+        position: absolute;
+        top: 50px;
+        left: 80px;
+        height: 100px;
+        width: 240px;
+        margin-left: -50px;
+    }
+    
+    header {
+        background-color: rgb(39, 67, 105, 0.8);
+        padding: 12px;
+        margin-top: -10px;
+        margin-left: -10px;
+        margin-right: 0px;
+        width: 100%;
+    }
+    
+    h5 {
+        margin: 0;
+        color: white;
+        font-size: 25px;
+        display: flex;
+        justify-content: center;
+        margin-left: -20px;
+    }
+    
+    footer {
+        position: fixed;
+        bottom: 0;
+        width: 105%;
+        background-color: rgba(255, 237, 176, 0.7);
+        text-align: center;
+        height: 50px;
+        margin-left: -10px;
+    
+    }
+    
+    #footText {
+        color: rgb(39, 67, 105);
+        margin-top: 10px;
+    }
+    
+    h6 {
+        color: rgb(39, 67, 105);
+        margin-top: 10px;
+    }
+    
+    #barraOpciones {
+        background-color: rgba(255, 237, 176, 0.7);
+        text-align: center;
+        padding: 50px;
+        width: 97%;
+        margin-left: -10px;
+    
+    }
+    
+    #menu {
+        display: flex;
+        justify-content: right;
+        margin-right: 20px;
+        margin-top: -120px;
+        height: 40px;
+        gap: 20px;
+    }
+    
+    #gotoSearch {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    #gotoFavorites {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    #goHome {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    h1 {
+        color: rgb(39, 67, 105);
+        font-size: 80px;
+        margin-top: -95px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    #info {
+    
+        color: white;
+        display: flex;
+        justify-content: space-around;
+        text-align: left;
+        padding: 6%;
+        font-size: 2vh;
+        text-align: justify;
+        margin-top: 60px;
+    }
+    
+    #info1 {
+        background-color: rgba(20, 20, 20, 0.8);
+        max-width: 100%;
+        border-radius: 15px;
+        padding: 0px 15px;
+        margin-right: 80px;
+    }
+    
+    #uno {
+        text-align: center;
+        text-emphasis-color: initial;
+    }
+    
+    #info2 {
+        background-color: rgba(20, 20, 20, 0.8);
+        max-width: 100%;
+        border-radius: 15px;
+        padding: 0px 15px;
+    }
+    
+    #dos {
+        text-align: center;
+    }
+    
+    #seasons {
+        color: white;
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+        padding: 2%;
+        font-size: 2vh;
+        margin-top: 30px;
+        margin-bottom: 70px;
+        margin-left: 100px;
+    }
+    
+    #t1 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+    }
+    
+    #temp1 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t2 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 370px;
+        margin-top: -204px;
+    }
+    
+    #temp2 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t3 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 735px;
+        margin-top: -204px;
+    }
+    
+    #temp3 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t4 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 1100px;
+        margin-top: -204px;
+    }
+    
+    #temp4 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t5 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-top: 40px;
+    }
+    
+    #temp5 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t6 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 370px;
+        margin-top: -204px;
+        
+    }
+    
+    #temp6 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t7 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 735px;
+        margin-top: -204px;
+        
+    }
+    
+    #temp7 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t8 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 1100px;
+        margin-top: -204px;
+        
+    }
+    
+    #temp8 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+}
+
+/* ---------------------------------------------------------------------------- */
+
+@media (min-width: 1801px) and (max-width: 2000px) {
+
+    #logoGot {
+        position: absolute;
+        top: 50px;
+        left: 80px;
+        height: 100px;
+        width: 240px;
+        margin-left: -50px;
+    }
+    
+    header {
+        background-color: rgb(39, 67, 105, 0.8);
+        padding: 12px;
+        margin-top: -10px;
+        margin-left: -10px;
+        margin-right: 0px;
+        width: 100%;
+    }
+    
+    h5 {
+        margin: 0;
+        color: white;
+        font-size: 25px;
+        display: flex;
+        justify-content: center;
+        margin-left: -20px;
+    }
+    
+    footer {
+        position: fixed;
+        bottom: 0;
+        width: 105%;
+        background-color: rgba(255, 237, 176, 0.7);
+        text-align: center;
+        height: 50px;
+        margin-left: -10px;
+    
+    }
+    
+    #footText {
+        color: rgb(39, 67, 105);
+        margin-top: 10px;
+    }
+    
+    h6 {
+        color: rgb(39, 67, 105);
+        margin-top: 10px;
+    }
+    
+    #barraOpciones {
+        background-color: rgba(255, 237, 176, 0.7);
+        text-align: center;
+        padding: 50px;
+        width: 97%;
+        margin-left: -10px;
+    
+    }
+    
+    #menu {
+        display: flex;
+        justify-content: right;
+        margin-right: 20px;
+        margin-top: -120px;
+        height: 40px;
+        gap: 20px;
+    }
+    
+    #gotoSearch {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    #gotoFavorites {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    #goHome {
+        color: white;
+        background-color: rgb(39, 67, 105);
+        border-radius: 8px;
+    }
+    
+    h1 {
+        color: rgb(39, 67, 105);
+        font-size: 80px;
+        margin-top: -95px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    #info {
+    
+        color: white;
+        display: flex;
+        justify-content: space-around;
+        text-align: left;
+        padding: 6%;
+        font-size: 2vh;
+        text-align: justify;
+        margin-top: 60px;
+    }
+    
+    #info1 {
+        background-color: rgba(20, 20, 20, 0.8);
+        max-width: 100%;
+        border-radius: 15px;
+        padding: 0px 15px;
+        margin-right: 80px;
+    }
+    
+    #uno {
+        text-align: center;
+        text-emphasis-color: initial;
+    }
+    
+    #info2 {
+        background-color: rgba(20, 20, 20, 0.8);
+        max-width: 100%;
+        border-radius: 15px;
+        padding: 0px 15px;
+    }
+    
+    #dos {
+        text-align: center;
+    }
+    
+    #seasons {
+        color: white;
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+        padding: 2%;
+        font-size: 2vh;
+        margin-top: 30px;
+        margin-bottom: 70px;
+        margin-left: 100px;
+    }
+    
+    #t1 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+    }
+    
+    #temp1 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t2 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 395px;
+        margin-top: -204px;
+    }
+    
+    #temp2 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t3 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 785px;
+        margin-top: -204px;
+    }
+    
+    #temp3 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t4 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 1175px;
+        margin-top: -204px;
+    }
+    
+    #temp4 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t5 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-top: 40px;
+    }
+    
+    #temp5 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t6 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 395px;
+        margin-top: -204px;
+        
+    }
+    
+    #temp6 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t7 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 785px;
+        margin-top: -204px;
+        
+    }
+    
+    #temp7 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+    
+    #t8 {
+        background-color: rgb(39, 67, 105, 0.8);
+        max-width: 20%;
+        border-radius: 15px;
+        padding: 10px 6px;
+        text-align: center;
+        margin-left: 1175px;
+        margin-top: -204px;
+        
+    }
+    
+    #temp8 {
+        display: flex;
+        justify-content: center;
+        margin-left: 6px;
+    }
+}
+
+/* ---------------------------------------------------------------------------- */
+
+@media (min-width: 2001px) and (max-width: 2250px) {
+
+#logoGot {
+    position: absolute;
+    top: 50px;
+    left: 80px;
+    height: 100px;
+    width: 240px;
+}
+
+header {
+    background-color: rgb(39, 67, 105, 0.8);
+    padding: 12px;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: 0px;
+    width: 100%;
+}
+
+h5 {
+    margin: 0;
+    color: white;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    margin-left: -20px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(255, 237, 176, 0.7);
+    text-align: center;
+    height: 50px;
+    margin-left: -10px;
+
+}
+
+#footText {
+    color: rgb(39, 67, 105);
+    margin-top: 10px;
+}
+
+h6 {
+    color: rgb(39, 67, 105);
+    margin-top: 10px;
+}
+
+#barraOpciones {
+    background-color: rgba(255, 237, 176, 0.7);
+    text-align: center;
+    padding: 50px;
+    width: 97%;
+    margin-left: -10px;
+
+}
+
+#menu {
+    display: flex;
+    justify-content: right;
+    margin-right: 70px;
+    margin-top: -120px;
+    height: 40px;
+    gap: 20px;
+}
+
+#gotoSearch {
+    color: white;
+    background-color: rgb(39, 67, 105);
+    border-radius: 8px;
+}
+
+#gotoFavorites {
+    color: white;
+    background-color: rgb(39, 67, 105);
+    border-radius: 8px;
+}
+
+#goHome {
+    color: white;
+    background-color: rgb(39, 67, 105);
+    border-radius: 8px;
+}
+
+h1 {
+    color: rgb(39, 67, 105);
+    font-size: 80px;
+    margin-top: -95px;
+    display: flex;
+    justify-content: center;
+}
+
+#info {
+
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+    padding: 8%;
+    font-size: 2vh;
+    text-align: justify;
+}
+
+#info1 {
+    background-color: rgba(20, 20, 20, 0.8);
+    max-width: 40%;
+    border-radius: 15px;
+    padding: 0px 25px;
+}
+
+#uno {
+    text-align: center;
+    text-emphasis-color: initial;
+}
+
+#info2 {
+    background-color: rgba(20, 20, 20, 0.8);
+    max-width: 40%;
+    border-radius: 15px;
+    padding: 0px 25px;
+}
+
+#dos {
+    text-align: center;
+}
+
+#seasons {
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 4%;
+    font-size: 2vh;
+    margin-top: -90px;
+    gap: 40px;
+}
+
+#t1 {
+    background-color: rgb(39, 67, 105, 0.8);
+    max-width: 40%;
+    border-radius: 15px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+#temp1 {
+    display: flex;
+    justify-content: center;
+    margin-left: 6px;
+}
+
+#t2 {
+    background-color: rgb(39, 67, 105, 0.8);
+    max-width: 40%;
+    border-radius: 15px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+#temp2 {
+    display: flex;
+    justify-content: center;
+    margin-left: 6px;
+}
+
+#t3 {
+    background-color: rgb(39, 67, 105, 0.8);
+    max-width: 40%;
+    border-radius: 15px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+#temp3 {
+    display: flex;
+    justify-content: center;
+    margin-left: 6px;
+}
+
+#t4 {
+    background-color: rgb(39, 67, 105, 0.8);
+    max-width: 40%;
+    border-radius: 15px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+#temp4 {
+    display: flex;
+    justify-content: center;
+    margin-left: 6px;
+}
+
+#t5 {
+    background-color: rgb(39, 67, 105, 0.8);
+    max-width: 40%;
+    border-radius: 15px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+#temp5 {
+    display: flex;
+    justify-content: center;
+    margin-left: 6px;
+}
+
+#t6 {
+    background-color: rgb(39, 67, 105, 0.8);
+    max-width: 40%;
+    border-radius: 15px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+#temp6 {
+    display: flex;
+    justify-content: center;
+    margin-left: 6px;
+}
+
+#t7 {
+    background-color: rgb(39, 67, 105, 0.8);
+    max-width: 40%;
+    border-radius: 15px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+#temp7 {
+    display: flex;
+    justify-content: center;
+    margin-left: 6px;
+}
+
+#t8 {
+    background-color: rgb(39, 67, 105, 0.8);
+    max-width: 40%;
+    border-radius: 15px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+#temp8 {
+    display: flex;
+    justify-content: center;
+    margin-left: 6px;
+}
+}

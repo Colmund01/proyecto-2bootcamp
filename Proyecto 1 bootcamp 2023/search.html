@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+         #addandremove:hover {
+            background-color: red;
+            color:white;
+        }
+    </style>
+
+<style>
+    #gotoSearch:hover {
+        background-color: red
+    }
+</style>
+<style>
+    #gotoFavorites:hover {
+        background-color: red
+    }
+</style>
+<style>
+    #goHome:hover {
+        background-color: red
+    }
+</style>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <img src="https://1000logos.net/wp-content/uploads/2020/09/Game-of-Thrones-logo.png" alt="logo">
+
+    <header>
+        <h5>"Valar morghulis"</h5>
+    </header>
+
+    <div id="barraOpciones"></div>
+
+    <h1>BUSCAR</h1>
+
+    <div id="menu">
+
+        <button id="goHome">HOME</button>
+        <script>
+            document.querySelector(`#goHome`)
+                .addEventListener(`click`, () => {
+                    location.href = `home.html`;
+                })
+        </script>
+
+        <button id="gotoFavorites">FAVORITOS</button>
+        <script>
+            document.querySelector(`#gotoFavorites`)
+                .addEventListener(`click`, () => {
+                    location.href = `favorites.html`;
+                })
+        </script>
+
+        <button id="gotoSearch">BUSCAR</button>
+        <script>
+            document.querySelector(`#gotoSearch`)
+                .addEventListener(`click`, () => {
+                    location.href = `search.html`;
+                })
+        </script>
+
+    </div>
+
+    <footer>
+        <h5 id="footText">"Valar dohaeris"</h5>
+    </footer>
+
+
+    <script src="search.js"></script>
+    
+
+
+
+</body>
+
+</html>
